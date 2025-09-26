@@ -17,3 +17,7 @@ Akbank Derin Ogrenme Bootcamp 26.09.2025 Tarihli proje teslim dosyasıdır.
 # Sonuç ve Gelecek Çalışmalar
 
   Modelin %84 başarıya ulaşması temel hedefi karşılasa da, sonuçlar gelecekteki çalışmalar için net iyileştirme alanları sunmaktadır. Overfitting eğilimini kontrol altına almak için, eğitimin 6. epoch civarında otomatik durmasını sağlayacak Erken Durdurma (Early Stopping) mekanizmasının eklenmesi birinci önceliktir. İkinci olarak, Glacier ve Mountain sınıflarının performansını artırmak amacıyla, bu sınıflar arasındaki zorlu ayrımları daha iyi yakalayabilecek daha derin Conv katmanları veya daha fazla filtre eklenmesi hedeflenmelidir. Ayrıca, modelin genelleme yeteneğinin sınırlarını zorlamak adına Transfer Öğrenme yaklaşımları denenmelidir.
+
+
+# Kaggle Link 
+https://www.kaggle.com/code/omerosmantopcu/akbankderin-renme-projesi
